@@ -39,9 +39,9 @@ A structured collection of `.sql` files to practice and revise:
 
 ## 🎯 Goals
 
-* ✔️ Strengthen SQL concepts
-* ✔️ Practice real-world queries
-* ✔️ Prep for interviews & exams
+*  Strengthen SQL concepts
+*  Practice real-world queries
+*  Prep for interviews & exams
 
 ## 🚧 Work In Progress
 
