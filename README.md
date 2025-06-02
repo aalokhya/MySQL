@@ -48,4 +48,3 @@ A structured collection of `.sql` files to practice and revise:
 Stay tuned! More examples and queries coming soon.
 
 **Happy Learning! 💾**
-Let me know if you'd like a GitHub-ready `README.md` file for this!
